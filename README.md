@@ -1,8 +1,9 @@
 # cucumber-java
 This is a maven project.
+
 Set up jdk in IntelliJ.
 
-Import project.
+Clone repo and import rproject.
 
 Install plugin: Cucumber.
 
