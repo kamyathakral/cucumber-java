@@ -3,7 +3,7 @@ This is a maven project.
 
 Set up jdk in IntelliJ.
 
-Clone repo and import rproject.
+Clone repo and import project.
 
 Install plugin: Cucumber.
 
